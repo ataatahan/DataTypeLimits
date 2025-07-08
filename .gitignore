@@ -1,0 +1,40 @@
+# =====================
+# Visual Studio için .gitignore
+# =====================
+
+## Visual Studio klasörleri
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Derleme (build) klasörleri
+bin/
+obj/
+[Bb]uild/
+[Bb]uilds/
+
+## Yayınlama klasörleri
+publish/
+out/
+
+## Geçici dosyalar
+*.log
+*.tmp
+*.bak
+*.cache
+
+## Kişisel ayarlar
+*.userprefs
+*.dbmdl
+
+## Sistem dosyaları
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+## Rider / JetBrains IDE
+.idea/
+*.sln.iml
