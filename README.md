@@ -1,20 +1,30 @@
-# Veri Tipleri Bilgilendirme Uygulaması
+# 📊 Veri Tipleri Bilgilendirme Uygulaması
 
-Bu C# konsol uygulaması ile temel .NET sayısal veri türlerinin;
+Bu C# konsol uygulaması, temel .NET sayısal veri türlerinin:
 
-- Alt limit
-- Üst limit
-- Bellekte kapladığı boyut
+- 🔽 Alt limitini  
+- 🔼 Üst limitini  
+- 💾 Bellekte kapladığı boyutu  
 
-bilgileri listelenir.
+kullanıcıya listeler.
 
-## Amaç
+## 🎯 Amaç
 
-Programlamaya yeni başlayanlar için `byte`, `int`, `long` gibi veri türlerini ve sınırlarını öğretmek.
+Programlamaya yeni başlayanlar için `byte`, `int`, `long` gibi veri türlerinin sınırlarını ve bellek boyutlarını öğretmek.
 
-## Örnek Çıktı
+## 🧪 Örnek Çıktı
 
-Byte
+Veri Tipi: Byte
 Min Limit: 0
 Max Limit: 255
 Size: 1 byte
+
+## 🛠️ Kullanılan Teknolojiler
+
+- C# programlama dili  
+- .NET Framework / .NET Core  
+- Konsol uygulaması  
+
+---
+
+Teşekkürler! 🙌
